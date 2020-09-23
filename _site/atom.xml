@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Stas Pikin</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-09-23T16:21:03+03:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Stas Pikin</name>
+   <email>staspikin@staspikin.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Wirex</title>
+   <link href="http://localhost:4000/2018/06/04/wirex/"/>
+   <updated>2018-06-04T00:00:00+03:00</updated>
+   <id>http://localhost:4000/2018/06/04/wirex</id>
+   <content type="html">&lt;p&gt;Cryptoman&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>METRO Cash &amp; Carry Ukraine</title>
+   <link href="http://localhost:4000/2016/09/27/mcc/"/>
+   <updated>2016-09-27T00:00:00+03:00</updated>
+   <id>http://localhost:4000/2016/09/27/mcc</id>
+   <content type="html">&lt;p&gt;Payroll Redesign Implementation (IT Project Manager);&lt;/p&gt;
+
+&lt;p&gt;Workforce Integration (IT Project Manager, Functional Consultant);&lt;/p&gt;
+
+&lt;p&gt;SCRUM process implementation for IT Support Services (Project Manager, Business Analyst)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Terrasoft Company</title>
+   <link href="http://localhost:4000/2015/11/02/terrasoft/"/>
+   <updated>2015-11-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2015/11/02/terrasoft</id>
+   <content type="html">&lt;p&gt;HR Shared Service Center Case Management process automatization for EVRAZ plc
+(Business Analyst, Functional Consultant);&lt;/p&gt;
+
+&lt;p&gt;Service Desk Case Management process automatization for PJSC Gazprom
+(Functional Consultant);&lt;/p&gt;
+
+&lt;p&gt;Configuration Management process automatization for Delovie Linii (Business
+Analyst, Functional Consultant);&lt;/p&gt;
+
+&lt;p&gt;Service Desk Case Management &amp;amp; Change Management processes automatization
+for TELE2 Russia (Business Analyst, Functional Consultant);&lt;/p&gt;
+
+&lt;p&gt;Support of Collection for Fix system for Vimpelcom LLC (Functional Consultant).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ageless LLC</title>
+   <link href="http://localhost:4000/2013/07/15/ageless/"/>
+   <updated>2013-07-15T00:00:00+03:00</updated>
+   <id>http://localhost:4000/2013/07/15/ageless</id>
+   <content type="html">&lt;p&gt;Implementation of SAP HCM Payroll for PJSC UkrTransGaz (Functional Consultant);&lt;/p&gt;
+
+&lt;p&gt;Support of SAP HCM for PJSC Velyka Kishenya (Functional Consultant);&lt;/p&gt;
+
+&lt;p&gt;Implementation of SAP HCM Payroll &amp;amp; support of SAP HCM Core HR for Unison Group (Business Analyst, Functional Consultant).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>BrigRetail LLC</title>
+   <link href="http://localhost:4000/2012/02/06/brig/"/>
+   <updated>2012-02-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2012/02/06/brig</id>
+   <content type="html">&lt;p&gt;Implementation of SAP HCM Employee/Manager Self-Services, e-Recruiting, LSO, Enterprise Portal for PJSC Sberbank Rosii v Ukraїni (Functional Consultant).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Effective Solutions</title>
+   <link href="http://localhost:4000/2010/09/27/efsol/"/>
+   <updated>2010-09-27T00:00:00+03:00</updated>
+   <id>http://localhost:4000/2010/09/27/efsol</id>
+   <content type="html">&lt;p&gt;Support of SAP XI/PI for Mak-Dak LLC (ABAP Developer);&lt;/p&gt;
+
+&lt;p&gt;Development of tender workflow subsystem for OJSC TVEL (ABAP Team Lead).&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

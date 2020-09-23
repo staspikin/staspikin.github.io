@@ -1,0 +1,36 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Stas Pikin
+tagline:             System Analyst from Ukraine
+url:                 http://staspikin.com
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Stas Pikin
+  url:               https://twitter.com/staspikin
+  email:             staspikin@staspikin.com
+
+# Custom vars
+version:             2.0.1
+github:
+  repo:              https://github.com/staspikin/portfolio
+google_analytics:    UA-21797410-3
+username:            staspikin
+phone:               +380633147282
+email:               hello@staspikin.com
+
+# Gems
+plugins:
+  # - jekyll-paginate
+  # - jekyll-gist 
